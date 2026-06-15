@@ -55,7 +55,7 @@
   - AI 독려 문구: Gemini 3.1 Flash-Lite를 이용하여 AI 독려 문구를 송출합니다. 심리적 압박 뿐만 아니라, 반복되지 않고 매번 다른 문구를 송출하여 보는 재미도 더했습니다.
   - 나의 약속 일정 설정 현황: 등록된 일정 정보를 간단히 표시합니다.
   - 약속 등록하기/약속일정 변경하기 버튼
-   <img width="375px" height="auto" alt="일정 등록 후 메인 화면" src="https://github.com/user-attachments/assets/b7e9cdff-e513-4f45-87a8-eb082585af0f" />
+   <img width="280px" height="auto" alt="일정 등록 후 메인 화면" src="https://github.com/user-attachments/assets/b7e9cdff-e513-4f45-87a8-eb082585af0f" />
 
 2. **일정 등록 화면**
    - **- 화면 상단에서 하단 순서대로 기능 설명드리겠습니다.**
@@ -63,9 +63,10 @@
    - 날짜 및 시간 선택란: 언제까지 집을 나서야 약속 시간에 늦지 않는지를 등록합니다. 날짜 및 시간 순서로 선택하게 되어 있습니다. 특징으로는 안드로이드의 순정 dialog를 사용하지 않고, 더 사용자 친화적인 UI/UX를 커스텀하여 적용하였습니다.
    - 굴욕 메시지 입력란: 제시간에 집 탈출 실패 시, 상대방에게 전송되는 SMS에 포함될 메시지 일부를 직접 작성합니다. '랜덤 생성' 버튼을 이용해서 문구를 추천받을 수도 있습니다.
    - 나의 집 위치 설정: 집 탈출 여부를 검증하기 위해 나의 집 위치를 등록해야 합니다. 검증 기준은 설정된 집 위치에서 50m 이상을 벗어났는지 여부로 판단합니다. 특징으로는 해당 상황에서 네이버 지도 API를 활용하게 됩니다.
-<img width="375px" height="auto" alt="일정 등록 화면" src="https://github.com/user-attachments/assets/09f14c26-0e9e-4a3e-a8f9-441a1934950a" />
+<img width="280px" height="auto" alt="일정 등록 화면" src="https://github.com/user-attachments/assets/09f14c26-0e9e-4a3e-a8f9-441a1934950a" />
 
 3. **상대방에게 강제로 전송된 SMS 예시**
   - 제시간에 집을 탈출하지 못했을 때, 상대방에게 강제로 전송된 SMS 상태입니다.
   - 공기계로 테스트하였기 때문에 임시저장(느낌표 아이콘 표시)으로 표시되긴 하지만, 실제 개통된 휴대폰이었다면 정상적으로 SMS가 전송된 상태였음을 반증합니다.
-    <img width="375px" height="auto" alt="강제 전송된 SMS 예시" src="https://github.com/user-attachments/assets/48d30908-2fa5-4270-b0eb-c7ebc08ffaaf" />
+    
+    <img width="280px" height="auto" alt="강제 전송된 SMS 예시" src="https://github.com/user-attachments/assets/48d30908-2fa5-4270-b0eb-c7ebc08ffaaf" />
