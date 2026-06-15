@@ -62,7 +62,7 @@
 <img width="280px" height="auto" alt="일정 등록 화면" src="https://github.com/user-attachments/assets/09f14c26-0e9e-4a3e-a8f9-441a1934950a" />
 
 3. **상대방에게 강제로 전송된 SMS 예시**
-  - 제시간에 집을 탈출하지 못했을 때, 상대방에게 강제로 전송된 SMS 상태입니다.
-  - 공기계로 테스트하였기 때문에 임시저장(느낌표 아이콘 표시)으로 표시되긴 하지만, 실제 개통된 휴대폰이었다면 정상적으로 SMS가 전송된 상태였음을 반증합니다.
+      - 제시간에 집을 탈출하지 못했을 때, 상대방에게 강제로 전송된 SMS 상태입니다.
+      - 공기계로 테스트하였기 때문에 임시저장(느낌표 아이콘 표시)으로 표시되긴 하지만, 실제 개통된 휴대폰이었다면 정상적으로 SMS가 전송된 상태였음을 반증합니다.
     
     <img width="280px" height="auto" alt="강제 전송된 SMS 예시" src="https://github.com/user-attachments/assets/48d30908-2fa5-4270-b0eb-c7ebc08ffaaf" />
