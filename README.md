@@ -44,6 +44,9 @@
 
 **[ 📸 스크린샷 ]**
 
+✔ 영상으로 시연 영상 확인하기: https://www.youtube.com/shorts/DfUFYvTC5us
+<iframe src="https://www.youtube.com/shorts/DfUFYvTC5us" style="width: 280px; heigh: auto;" />
+
 1. **일정 등록 후 메인 화면**
     - **- 화면 상단에서 하단 순서대로 기능 설명드리겠습니다.**
     - 나의 신뢰도 통계: 기존에 축적된 시간 준수율을 토대로 신뢰도가 몇 %인지 표시합니다.
