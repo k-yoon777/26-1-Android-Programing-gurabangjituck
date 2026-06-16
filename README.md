@@ -45,7 +45,6 @@
 **[ 📸 스크린샷 ]**
 
 ✔ 영상으로 시연 영상 확인하기: https://www.youtube.com/shorts/DfUFYvTC5us
-<iframe src="https://www.youtube.com/shorts/DfUFYvTC5us" style="width: 280px; heigh: auto;" />
 
 1. **일정 등록 후 메인 화면**
     - **- 화면 상단에서 하단 순서대로 기능 설명드리겠습니다.**
