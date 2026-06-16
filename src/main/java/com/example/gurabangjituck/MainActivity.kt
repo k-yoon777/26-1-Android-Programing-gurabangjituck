@@ -69,7 +69,7 @@ import java.util.TimeZone
 import com.google.ai.client.generativeai.GenerativeModel
 import kotlinx.coroutines.launch
 
-const val GEMINI_API_KEY = "AQ.Ab8RN6KwMJAfKFftCtfIhlFORIzMm6Cw_VLfPRtyhrmYOgLy6w"
+const val GEMINI_API_KEY = "API KEY 위치"
 
 val TossBlue = Color(0xFF3182F6)
 val TossDismissRed = Color(0xFFF04452)
